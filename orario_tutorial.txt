@@ -1,0 +1,49 @@
+COME AGGIORNARE CORRETTAMENTE I PDF DEGLI ORARI.
+dopo aver reperito i file degli orari, metterli nella
+cartella in ./orario/file e rinominarli nel seguente modo:
+
+	TRIENNALE
+CORSI COMUNI		->	corsi_comuni.pdf
+INFO E AUTOMAZIONE	->	info_auto_TR.pdf
+ELETTRICA		    ->	elettrica_TR.pdf
+ELETTRONICA E TELECOMUN	->	elettronica_tlc_TR.pdf
+SISTEMI MEDICALI	->	sistemi_medicali_TR.pdf
+
+GESTIONALE		->	gestionale_TR.pdf
+MECCANICA		->	meccanica_TR.pdf
+SISTEMI AEROSPAZIALI	->	sis_aerospaziali_TR.pdf
+
+COSTRUZ GEST AMBIENTALE	->	costruzione_ambientale_TR.pdf
+EDILE			->	edile_TR.pdf
+CIVILE E AMBIENTALE	    ->	civile_ambientale_TR.pdf
+CIVILE E AMBIENTALE TAR	->	civile_ambientale_TA_TR.pdf
+ING. DELL'AMBIENTE	    ->	ambiente_TR.pdf (X)
+
+ARCHITETTURA		->	architettura.pdf
+DISEGNO INDUSTRIALE	->	disegno_industriale.pdf
+INDUSTRIAL DESIGN	->	industrial_design.pdf
+
+
+	MAGISTRALE
+ELETTRONICA		->	elettronica_MG.pdf
+ELETTRICA		->	elettrica_MG.pdf
+AUTOMAZIONE		->	automazione_MG.pdf
+TELECOMUNICAZIONI	->	tlc_MG.pdf
+INFORMATICA (EN)	->	informatica_MG.pdf
+SISTEMI MEDICALI	->	sistemi_medicali_MG.pdf
+TRASFORMAZIONE DIGITALE	->	trasf_digitale_MG.pdf (X)
+
+ENERGETICA		->	energetica_MG.pdf
+MECCANICA		->	meccanica_MG.pdf
+MECCANICA TA	->	meccanica_TA_MG.pdf
+MECHANICAL ENGIINEERING	->	mech_eng_MG.pdf
+GESTIONALE		->	gestionale_MG.pdf
+
+CIVILE		    	->	civile_MG.pdf
+SISTEMI EDILIZI		->	sistemi_edilizi_MG.pdf
+AMBIENTE E TERRITORIO	->	amb_terr_MG.pdf
+AMBIENTE E TEERRITOR TA	->	amb_terr_TA_MG.pdf
+GEST INFRASTRUTT CIVILI	->	infrastr_civ_MG.pdf
+
+
+
