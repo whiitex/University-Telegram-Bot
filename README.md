@@ -5,7 +5,7 @@ It can be considered as an aggregator.
 
 While writing this code, I was attending an italian university, so most of names used for variables and for courses names are in this languange: I apologize for it and i hope it can be useful anyway.
 
-Just run main.py to build the server (a telegram bot ID is needed in order to make it work and to have a the chatbot on telegram).
+Just run main.py to build the server (a telegram bot ID is needed in order to make it work and to have a chatbot on telegram).
 
 Thank you for reading <3
 
