@@ -1,3 +1,5 @@
+# Telegram Bot
+
 This project is based on `pyTelegramBotAPI` APIs, that allows implementation of useful telegram instruments in telegram directly using python. The purpose of the project was to build a bot able to answer FAQ from university community, to give the semester draft, to provide information about the regional service for scholarship or other type of information by a link to the website. 
 It can be considered as an aggregator. 
 
